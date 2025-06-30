@@ -1,4 +1,6 @@
-# Data Structure and Algorithm<br>
+## 📌About
+This repository contains my solutions to various LeetCode problems, algorithm implementations, and data structure explorations. It serves as both a learning resource and a reference for coding interview preparation.
+
 # Leetcode Problems:
 |     Number   | Description                        | Language  | Links |
 |--------------|------------------------------------|-----------|-------|
