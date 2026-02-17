@@ -1,30 +1,36 @@
-## 📌About
-This repository contains my solutions to various LeetCode problems, algorithm implementations, and data structure explorations. It serves as both a learning resource and a reference for coding interview preparation.
+## 📌 About
 
-# Data Structure and Algorithms:
-<!-- Base Path: https://github.com/devanshupathak9/CodeLab/blob/main/Data%20Structure%20and%20Algorithms -->
+Welcome to my CodeLab repository! Here you'll find my curated solutions to a wide range of LeetCode problems, along with implementations of fundamental algorithms and data structures. This collection is designed to serve as a comprehensive resource for learning, practicing, and preparing for coding interviews.
 
-|Leetcode Number | Type     | Description |
-|--------|----------|-------------|
-| 53     | Array    | [Maximum Subarray (Kadane's algorihtm)](https://github.com/devanshupathak9/CodeLab/blob/main/Data%20Structure%20and%20Algorithms/Array/maximum_subarray.cpp) |
-| 169    | Array    | [Majority Element](https://github.com/devanshupathak9/CodeLab/blob/main/Data%20Structure%20and%20Algorithms/Array/majority_element.cpp) |
-| 2      | Sorting  | [Merge Sort Algorithm](https://example.com/merge-sort) |
-| 215     | Heap     | [Kth Largest Element in an Array](/Heaps/kth_largest_element.cpp) |
-| 4      | String   | [Longest Palindromic Substring](https://example.com/palindrome) |
-|  -     | Stack   | [Next Greater element in a array](Stack/next_greater_element.cpp) |
-| 4      | String   | [Longest Palindromic Substring](https://example.com/palindrome) |
-| 5      | Graph    | [Dijkstra’s Shortest Path](https://example.com/dijkstra) |
+# Data Structures and Algorithms
 
-# Leetcode Problems (Miscellaneous):
-|Leetcode Number | Description |
-|-------- | -------------|
-| 594    | [Number of Islands](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_594/main.cpp) |
-| 200    | [Number of Islands](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_200/main.cpp) |
-| 2099   | [Find Subsequence of Length K With the Largest Sum](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2099/main.cpp) |
-| 2410  | [Find Subsequence of Length K With the Largest Sum](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2410/main.cpp) |
-| 2918  | [Find Subsequence of Length K With the Largest Sum](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2918/main.cpp) |
-| 3160  | [Find Subsequence of Length K With the Largest Sum](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_3160/main.cpp) |
-| 1014  | [Best Sightseeing Pair](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_1014/main.cpp) |
+| Type                   | Folder Link                                                                                  |
+|------------------------|---------------------------------------------------------------------------------------------|
+| Array                  | [Array](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Array) |
+| Bit Manipulation       | [Bit manipulation](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Bit%20manipulation) |
+| Disjoint-Set           | [Disjoint-Set](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Disjoint-Set) |
+| Dynamic Programming    | [Dynamic Programming](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Dynamic%20Programming) |
+| Graphs                 | [Graphs](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Graphs) |
+| Heaps                  | [Heaps](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Heaps) |
+| Linked-Lists           | [Linked-Lists](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Linked-Lists) |
+| Searching              | [Searching](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Searching) |
+| Sorting                | [Sorting](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Sorting) |
+| Stack                  | [Stack](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Stack) |
+| Trees                  | [Trees](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Trees) |
+
+<hr>
+
+# LeetCode Problems (Miscellaneous)
+| Leetcode Number | Type         | Name                                             | Description                                                    |
+|-----------------|--------------|--------------------------------------------------|----------------------------------------------------------------|
+| 594             | Hash Table   | Longest Harmonious Subsequence                   | [Find the length of the longest harmonious subsequence in an array.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_594/main.cpp) |
+| 200             | DFS/BFS      | Number of Islands                                | [Count the number of islands in a 2D grid.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_200/main.cpp) |
+| 2099            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2099/main.cpp) |
+| 2410            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2410/main.cpp) |
+| 2918            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2918/main.cpp) |
+| 3160            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_3160/main.cpp) |
+| 1014            | Array        | Best Sightseeing Pair                            | [Find the pair of sightseeing spots with the maximum score.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_1014/main.cpp) |
+| Number          | Type         | Name                                             | [Description.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_1014/main.cpp) |
 
 
 

@@ -2,7 +2,7 @@
 ./main
 /main
 *.out
-
+./Leetcode/main
 ./solution
 solution
 *.out
