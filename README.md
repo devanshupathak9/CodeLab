@@ -23,7 +23,7 @@ Welcome to my CodeLab repository! Here you'll find my curated solutions to a wid
 # LeetCode Problems (Miscellaneous)
 | Leetcode Number | Type         | Name                                             | Description                                                    |
 |-----------------|--------------|--------------------------------------------------|----------------------------------------------------------------|
-| 594             | Hash Table   | Longest Harmonious Subsequence                   | [Find the length of the longest harmonious subsequence in an array.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_594/main.cpp) |
+| 1          | Array/ Hash Table   | Two Sum                  | [Return Indices of the two numbers such that they add up to target.](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Array/Two%20Sum) |
 | 200             | DFS/BFS      | Number of Islands                                | [Count the number of islands in a 2D grid.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_200/main.cpp) |
 | 2099            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2099/main.cpp) |
 | 2410            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2410/main.cpp) |
