@@ -1,9 +1,5 @@
-# Compiled executables
-./main
-/main
-*.out
-./Leetcode/main
-./solution
+# Executables
+main
 solution
 *.out
 
@@ -11,11 +7,9 @@ solution
 *.o
 *.obj
 
-# C source and header files (optional - only if you want to ignore them)
-# *.c
-# *.h
-
-# Other common files to ignore
+# Libraries
 *.a
 *.so
+
+# macOS
 .DS_Store

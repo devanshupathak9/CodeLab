@@ -1,40 +1,33 @@
 #include <iostream>
-#include <vector>
-#include <stack>
+#include<vector>
+#include<stack>
 using namespace std;
 
-class Solution
-{
+class Solution {
 public:
-    vector<int> next_greater_element(vector<int> &nums)
-    {
-        stack<int> s;
-        vector<int> result;
-        int n = nums.size();
-        for (int i = n - 1; i >= 0; i--)
-        {
-            while (!s.empty() && s.top() <= nums[i]){
-                s.pop();
+    vector<int> nextLargerElement(vector<int> &arr){
+        int n = arr.size();
+        vector<int>res;
+        stack<int> stck;
+        for(int i = n-1; i >= 0; i--) {
+            int curr = arr[i];
+            while (stck.size() && curr > stck.top()) {
+                stck.pop();
             }
-            if (s.empty())
-                result.push_back(-1);
-            else
-                result.push_back(s.top());
-            s.push(nums[i]);
+            if (stck.size()) res.push_back(stck.top());
+            else res.push_back(-1);
+            stck.push(curr);
         }
-        reverse(result.begin(), result.end());
-        return result;
+        reverse(res.begin(), res.end());
+        return res;
     }
 };
 
-int main()
-{
-    vector<int> arr = {2, 1, 3, 4, 1, 2, 7, 3, 4};
+int main() {
+    vector<int> arr = {13, 7, 6, 12, 10, 16, 5, 18, 3, 2, 25, 1};
     Solution sol;
-    auto res = sol.next_greater_element(arr);
-    for (auto &it : res)
-    {
-        cout << it << " ";
-    }
-    cout << endl;
+    vector<int> result = sol.nextLargerElement(arr);
+    for (auto it: result) { cout << it << " "; }
+    cout << "\n";
+    return 0;
 }
