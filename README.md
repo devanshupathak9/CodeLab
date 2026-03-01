@@ -25,12 +25,14 @@ Welcome to my CodeLab repository! Here you'll find my curated solutions to a wid
 |-----------------|--------------|--------------------------------------------------|----------------------------------------------------------------|
 | 1          | Array/ Hash Table   | Two Sum                  | [Return Indices of the two numbers such that they add up to target.](https://github.com/devanshupathak9/CodeLab/tree/main/Data%20Structure%20and%20Algorithms/Array/Two%20Sum) |
 | 200             | DFS/BFS      | Number of Islands                                | [Count the number of islands in a 2D grid.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_200/main.cpp) |
-| 2099            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2099/main.cpp) |
+| 2099            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](./Leetcode/leetcode_2099.cpp) |
 | 2410            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2410/main.cpp) |
 | 2918            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_2918/main.cpp) |
 | 3160            | Heap/Sorting | Find Subsequence of Length K With the Largest Sum| [Find a subsequence of length k with the largest sum.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_3160/main.cpp) |
 | 1014            | Array        | Best Sightseeing Pair                            | [Find the pair of sightseeing spots with the maximum score.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_1014/main.cpp) |
-| Number          | Type         | Name                                             | [Description.](https://github.com/devanshupathak9/CodeLab/blob/main/Leetcode/Leetcode_1014/main.cpp) |
+| 1404          | Bit Manipulation         | Number of Steps to Reduce a Number in Binary Representation to One | [Counting the number of operations using bit manipulation techniques.](./Data%20Structure%20and%20Algorithms/Bit%20manipulation/leetcode_1404.cpp) |
+
+| Number          | Type         | Name                                             | [Description.] (path) |
 
 
 
