@@ -4,7 +4,7 @@
 
 Welcome to my CodeLab repository! Here you'll find my curated solutions to a wide range of LeetCode problems, along with implementations of fundamental algorithms and data structures. This collection is designed to serve as a comprehensive resource for learning, practicing, and preparing for coding interviews.
 
-Solutions are written mainly in **C++**, with **Python**, **C** and **JavaScript** versions for some problems. Every solution file starts with the problem statement as a comment, so each file is self-contained.
+Solutions are written mainly in **C++**, with **Python**, **C** and **JavaScript** versions for some problems.
 
 ---
 
@@ -15,7 +15,6 @@ Solutions are written mainly in **C++**, with **Python**, **C** and **JavaScript
 | [`dsa/`](./dsa) | Core data structures & algorithms, organised by topic |
 | [`leetcode/`](./leetcode) | Standalone LeetCode solutions |
 | [`neetcode_150/`](./neetcode_150) | Solutions to the NeetCode 150 interview list |
-| [`algorithm-notes/`](./algorithm-notes) | Notes, notebooks and reusable algorithm templates |
 | [`templates/`](./templates) | Boilerplate starter files (`.c`, `.cpp`, `.py`) |
 
 ---
@@ -35,8 +34,6 @@ Solutions are written mainly in **C++**, with **Python**, **C** and **JavaScript
 | Stack | [dsa/stack](./dsa/stack) |
 | Trees | [dsa/trees](./dsa/trees) |
 | Disjoint Set (Union-Find) | [algorithm-notes/graphs/disjoint_set.cpp](./algorithm-notes/graphs/disjoint_set.cpp) |
-
-> 📓 Topic deep-dive: [Bit Manipulation — Techniques & Tricks](./dsa/bit-manipulation/README.md)
 
 <hr>
 
@@ -105,28 +102,3 @@ Every problem solved so far, sorted by problem number. The **Problem** column li
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Math, String | [C++](./leetcode/leetcode_3783.cpp) |
 
 <hr>
-
-# NeetCode 150
-
-Solutions to the [NeetCode 150](https://neetcode.io/practice) interview list live in [`neetcode_150/`](./neetcode_150) — see that folder's [README](./neetcode_150/README.md) for the running index.
-
-<hr>
-
-## 🚀 Getting Started
-
-```bash
-git clone git@github.com:devanshupathak9/codelab.git
-cd codelab
-
-# Run a C++ solution
-g++ -std=c++17 -O2 leetcode/leetcode_3014.cpp -o solution && ./solution
-
-# Run a Python solution
-python3 leetcode/leetcode_3635.py
-```
-
-## 🤝 Contributing
-
-This is a personal practice log, but suggestions and improvements are welcome — feel free to open an issue or a pull request.
-
-Happy Coding 🚀
