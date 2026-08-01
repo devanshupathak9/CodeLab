@@ -1,10 +1,10 @@
-# 🧪 CodeLab
+# CodeLab
 
 ## 📌 About
 
-Welcome to my CodeLab repository! Here you'll find my curated solutions to a wide range of LeetCode problems, along with implementations of fundamental algorithms and data structures. This collection is designed to serve as a comprehensive resource for learning, practicing, and preparing for coding interviews.
+Welcome to my CodeLab repository! Here you'll find my curated solutions to a wide range of LeetCode problems, along with implementations of fundamental algorithms and data structures. This collection is designed to serve as a comprehensive resource for learning, practising, and preparing for coding interviews.
 
-Solutions are written mainly in **C++**, with **Python**, **C**, and **JavaScript** versions for some problems.
+Solutions are written mainly in **C++**, **Python**, **C**, and **JavaScript** for some problems.
 
 ---
 
